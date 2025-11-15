@@ -39,7 +39,7 @@ A web-based **image classification tool** built with **TensorFlow** and **Stream
    ```
 
 3. **Download or add the model**  
-   The model is required for predictions. If not included in this repo, [download it from here](#) and place it inside the `model/` folder.
+   The model is required for predictions. If not included in this repo, [download it from here](https://drive.google.com/file/d/1opcYEZhmyNBJE6VbWqPfZ2Lg27_gvu5p/view?usp=sharing) and place it inside the `model/` folder.
 
 4. **Run the Streamlit app**  
    Launch the application:
@@ -76,7 +76,7 @@ A web-based **image classification tool** built with **TensorFlow** and **Stream
 ## 🌐 Live Demo 
 
 > You can also try the live version hosted on Hugging Face Spaces:
-> [🔗 Try the app](https://huggingface.co/spaces/aman2450/ai_image_detector)
+> [🔗 Try the app](https://huggingface.co/spaces/rounakkm/AI_Image_Detector)
 
 ---
 
