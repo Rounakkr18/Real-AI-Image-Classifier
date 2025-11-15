@@ -28,7 +28,7 @@ A web-based **image classification tool** built with **TensorFlow** and **Stream
 1. **Clone the repository**  
    Clone this repo to your local machine:
    ```bash
-   git clone https://github.com/Rahul2201020931/AI-Real-Image-Detector.git
+   git clone https://github.com/Rounakkr18/Real-AI-Image-Classifier.git
    cd your-repo-name
    ```
 
